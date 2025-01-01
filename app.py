@@ -4,7 +4,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
-st.title('Model Deployment: Logistic Regression - Titanic Dataset')
+st.title('Titanic Survival Predictor: Interactive Logistic Regression App')
 
 st.sidebar.header('User Input Parameters')
 
